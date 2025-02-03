@@ -1,4 +1,8 @@
-## Hi there 👋
+# Benfice website
+
+## Photography
+
+A website to showcase my photos.
 
 <!--
 **Benfice/benfice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
